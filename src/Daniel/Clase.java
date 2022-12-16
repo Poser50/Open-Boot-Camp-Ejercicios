@@ -10,7 +10,6 @@ public class Clase {
 
 class Coche{
     public int Puertas=4;
-
     public void AnadirPuerta(){
         this.Puertas++;
     }
